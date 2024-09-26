@@ -236,3 +236,29 @@ div.progress{
 .form label{
     color:#c2c2c2;
 }
+
+/**Classes Personalizadas**/
+
+.bg-black{
+    background:#000;
+}
+
+.debbug *{
+    border:1px solid red;
+}
+
+.bg-dgray{
+    background: #1e1e1e;
+}
+
+.border-neongreen {
+    border-color: #39ff14 !important;
+}
+
+.text-neongreen{
+    color:#39ff14 !important
+}
+
+.chat{
+    height: 650px !important;
+}
